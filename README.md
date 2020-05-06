@@ -23,7 +23,7 @@ Say what the step will be very first.
 Give the example
 ```
 
-And repeat me "Thanks"
+And repeat me "Thank you"
 
 ```
 until finished
